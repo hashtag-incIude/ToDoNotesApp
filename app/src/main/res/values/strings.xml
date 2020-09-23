@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mindorks-android-course-notes-app</string>
+    <string name="title_activity_my_notes">MyNotesActivity</string>
+    <string name="full_name">Full Name</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title_is">Title is:</string>
+    <string name="description_is">Description is:</string>
+    <string name="notes_added_successfully">Notes Added Successfully</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
